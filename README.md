@@ -1,5 +1,5 @@
 # Datacamp-RProject-Solutions
-Demonstrating usage R in Jupyter Notebooks for practicing data cleaning, manipulation, exploration, visualization, and modeling(ML) skills I got during my DataCamp “Data Scientist” journey! Each folder contains a standalone project with datasets and a notebook with real-world applications (solutions are not provided by DataCamp). 
+Demonstrating usage R in Jupyter Notebooks for practicing data cleaning, manipulation, exploration, visualization, and modeling(ML) skills I got during my “Data Scientist” journey in DataCamp! Each folder contains a standalone project with datasets and a notebook with real-world applications (solutions are not provided by DataCamp). 
 
 
 Projects are listed as:
